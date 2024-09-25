@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ruiling</h1>
-<h3 align="center">A passionate developer from Shanghai</h3>
+    <p align="center">
+          <img src="cat.webp" width="50"/>
+    </p>
 
 - 🕗 Timezone: Asia/Shanghai (UTC+8)
 - 💼 I’m currently a **student** at a university in Shanghai, China
