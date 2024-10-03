@@ -2,4 +2,6 @@
     <p align="center">
           <img src="cat.webp" width="50"/>
     </p>
-<h3 align="center">[我的博客](http://106.54.35.144/)</h3>
+<h3 align="center">
+    <a href="http://106.54.35.144/" alt="我的博客">[我的博客]</a>
+</h3>
